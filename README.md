@@ -1,6 +1,7 @@
 <img width="773" height="365" alt="AI dashboard screesnshot" src="https://github.com/user-attachments/assets/d539bc2e-0d57-401b-b32f-56c846a5ff31" />
-<img width="773" height="365" alt="AI dashboard screesnshot" src="https://github.com/user-attachments/assets/2810d5b9-1523-4af6-ace6-6e6fca25b696" />
-# ai-tool-usage-analysis-india
+Interactive dashborad built to analyze AI tool usage patterns.
+
+# AI-tool-usage-analysis-india
 📌 Project Overview
 
 This project analyzes how Indian college students use AI tools and examines their impact on academic performance across different streams, devices, and states.
