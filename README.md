@@ -1,3 +1,5 @@
+<img width="773" height="365" alt="AI dashboard screesnshot" src="https://github.com/user-attachments/assets/d539bc2e-0d57-401b-b32f-56c846a5ff31" />
+<img width="773" height="365" alt="AI dashboard screesnshot" src="https://github.com/user-attachments/assets/2810d5b9-1523-4af6-ace6-6e6fca25b696" />
 # ai-tool-usage-analysis-india
 📌 Project Overview
 
